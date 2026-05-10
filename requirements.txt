@@ -37,3 +37,4 @@ tqdm==4.67.3
 typer==0.25.1
 typing_extensions==4.15.0
 tzdata==2026.2
+streamlit
